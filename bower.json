@@ -5,25 +5,16 @@
   "authors": [
     "Puru Dahal <pdahal@me.com>"
   ],
-  "description": "Node.js App : Read the link @accounts you follow on twitter have shared",
+  "description": "Node.js",
+  "main": "Feedle",
   "keywords": [
-    "Node",
-    "Angular",
-    "Express",
-    "Twitter",
-    "Api"
+    "MEAN",
+    "App"
   ],
   "dependencies": {
-     "jquery": "1.x",
-     "angular": "latest",
-     "angular-resource": "latest",
-     "angular-cookies": "latest",
-     "angular-mocks": "latest",
-     "angular-route": "latest",
-     "bootstrap": "3.1.1",
-     "angular-bootstrap": "0.11.0",
-     "angular-ui-router": "#master"
-   },
+    "jquery": "1.x",
+    "angular": "latest"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
