@@ -1,0 +1,36 @@
+{
+  "name": "Feedle",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dahal/Feedle",
+  "authors": [
+    "Puru Dahal <pdahal@me.com>"
+  ],
+  "description": "Node.js App : Read the link @accounts you follow on twitter have shared",
+  "keywords": [
+    "Node",
+    "Angular",
+    "Express",
+    "Twitter",
+    "Api"
+  ],
+  "dependencies": {
+     "jquery": "1.x",
+     "angular": "latest",
+     "angular-resource": "latest",
+     "angular-cookies": "latest",
+     "angular-mocks": "latest",
+     "angular-route": "latest",
+     "bootstrap": "3.1.1",
+     "angular-bootstrap": "0.11.0",
+     "angular-ui-router": "#master"
+   },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
